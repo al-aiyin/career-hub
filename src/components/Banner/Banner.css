@@ -1,0 +1,8 @@
+.banner {
+    display: flex;
+    align-items: center;
+    background-image: url(../../assets/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-bottom: 20px;
+}
